@@ -10,7 +10,7 @@ Computer Science Engineering Student · Full Stack Developer · GenAI Enthusiast
 <p>
 <a href="https://github.com/Kaifsk24">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
+<a href="https://www.linkedin.com/in/kaif-shaikh-5abb05380?utm_source=share_via&utm_content=profile&utm_medium=member_ios">LinkedIn</a>
 </p>
 
 </div>
